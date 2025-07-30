@@ -21,11 +21,17 @@
     </td>
     <td>
       <a href="https://github.com/Henry-fh/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-fh&layout=donut&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-fh&layout=donut&theme=dark" alt="Top Langs" />
       </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/Henry-fh/github-readme-stats">
+  </a>
+</p>
+
 
 ##
 
