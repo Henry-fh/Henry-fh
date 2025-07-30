@@ -2,6 +2,11 @@
 
 - Estudante de Ciência da computação
 - Apaixonado por tecnologia
+
+<div>
+  <a href="https://www.linkedin.com/in/flavio-henrique1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=Dark" target="_blank"></a>
+</div>
+
 ##
   
 <table>
@@ -43,8 +48,4 @@
 </div>
 
 ##
-
-<div>
-  <a href="https://www.linkedin.com/in/flavio-henrique1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=Dark" target="_blank"></a>
-</div>
 
