@@ -2,21 +2,32 @@
 
 - Estudante de Ciência da computação
 - Apaixonado por tecnologia
-  ##
+##
   
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Henry-fh&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Henry-fh&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Henry-fha&show_icons=true" />
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Henry-fh&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Henry-fh&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=Henry-fh&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <a href="https://github.com/Henry-fh/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-fh&layout=donut&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-fh&layout=donut&theme=dark)](https://github.com/Henry-fh/github-readme-stats )
+##
 
 <div>
   <img align="center" alt="Henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
